@@ -1,6 +1,6 @@
 # Hi, I'm Tanya Maurya 👋
 
-Welcome to my GitHub profile! I'm a Master's student in Applied Computing at the University of Windsor, passionate about software development, data analytics, and machine learning. I love working on challenging projects, developing full-stack applications, and applying data-driven insights to solve real-world problems.
+Welcome to my GitHub profile! I'm a Master's student in Applied Computing at the University of Windsor, passionate about software development and machine learning. I love working on challenging projects, developing full-stack applications, and applying data-driven insights to solve real-world problems.
 
 ## About Me
 - 🎓 **Master of Applied Computing**, University of Windsor, expected graduation in 2025
