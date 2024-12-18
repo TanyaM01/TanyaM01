@@ -54,6 +54,6 @@ Welcome to my GitHub profile! I'm a Master's student in Applied Computing at the
 - [LinkedIn](https://www.linkedin.com/in/tanya-maurya-ab2947212/)
 - [GitHub](https://github.com/TanyaM01)
 - 📧 Email: [maurya3@uwindsor.ca](mailto:maurya3@uwindsor.ca)
-- 📱 Phone: (382) 880-0276
+
 
 Feel free to check out my repositories and connect with me if you'd like to collaborate on exciting projects! 🚀
