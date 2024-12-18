@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Master's student in Applied Computing at the University of Windsor, passionate about software development, data analytics, and machine learning. I love working on challenging projects, developing full-stack applications, and applying data-driven insights to solve real-world problems.
 
 ## About Me
-- 🎓 **Master of Applied Computing**, University of Windsor, expected graduation in 2024
+- 🎓 **Master of Applied Computing**, University of Windsor, expected graduation in 2025
 - 📍 Based in Windsor, ON
 - 💻 Currently seeking a 4- or 8-month internship opportunity starting in May 2025
 - 📚 Experienced in software development, machine learning, and full-stack web development
